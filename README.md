@@ -56,3 +56,5 @@ Given enough time I would gladly learn how to do this and implement it, wasnt vi
 In an ideal scenario, an attourney could click on the visa type sort button and pick what visa types they wanted to sort by to make their workflow more effective or communicate recent law changes to certain visa types. Unfortunately this was not possible given the time constraints
 ## Accessibility
 There are some accessibility concerns with my solution. I willingly did not factor in screen size or accesibility tools such as screen readers when making this, but IMO if something is customer facing then it should also be universally accessible, maybe not in a startup but later down the line
+## Code Reusability
+There are certain parts of the code I would move into their own folder. An example of this is moving the sort function into a utils file for reusability and making the buttons a reusable component that takes in props

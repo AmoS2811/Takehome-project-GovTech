@@ -1,5 +1,5 @@
-# Formally take home project
-A frontend focused take home project for Formally
+# Govtech take home project
+A frontend focused take home project for a govtech company
 
 Project results in ~ 2.5 hours (writing README not included):
 ![image](https://github.com/AmoS2811/formally-project/assets/150057130/8b3e0abb-b049-4d83-bf6f-01f614ca3ddc)
@@ -7,14 +7,14 @@ Project results in ~ 2.5 hours (writing README not included):
 
 # How to build project
 ## Open terminal and go to desired project location
-## Run command: git clone https://github.com/AmoS2811/formally-project.git
+## Run command: git clone https://github.com/AmoS2811/Takehome-project-GovTech.git
 ## Once located in project run command: cd frontend
 ## Run command: npm install (node required)
 ## Run command: npm start
 
 # Project structure
 
-## formally-project/
+## Takehome-project-GovTech/
 ## ├── frontend/
 ##    ├── node_modules/
 ##    ├── public/
